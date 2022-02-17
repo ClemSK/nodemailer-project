@@ -1,0 +1,19 @@
+{
+  "name": "email-contact-form",
+  "version": "1.0.0",
+  "description": "sample email app using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clem SK",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2",
+    "nodemailer": "^6.7.2"
+  },
+  "keywords": []
+}
